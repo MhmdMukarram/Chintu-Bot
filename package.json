@@ -1,7 +1,7 @@
 {
   "name": "Chintu-Bot",
   "version": "1.0.0",
-  "description": "chintubot happy for whatsapp.",
+  "description": "chintubo happy for whatsapp.",
   "main": "/chintubot/bot.js",
   "type": "commonjs",
   "scripts": {
