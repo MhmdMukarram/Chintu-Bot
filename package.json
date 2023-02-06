@@ -1,26 +1,26 @@
 {
-  "name": "Aquabot-MD",
+  "name": "Chintu-Bot",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
-  "main": "/aquabot/bot.js",
+  "description": "chintubot happy for whatsapp.",
+  "main": "/chintubot/bot.js",
   "type": "commonjs",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/CHINTUBOT-MD.git"
+    "url": "git+https://github.com/MhmdMukarram/Chintu-Bot.git"
   },
   "engines" : { 
     "node" : ">=14.19.3"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "red alpha",
+  "developer": "mukarram",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/CHINTUBOT-MD/issues"
+    "url": "https://github.com/MhmdMukarram/Chintu-Bot/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/CHINTUBOT-MD",
+  "homepage": "https://github.com/MhmdMukarram/Chintu-Bot",
   "dependencies": {
      "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
