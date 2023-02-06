@@ -1,7 +1,7 @@
-FROM aquabotwa/sanuwa-official:md-beta
+FROM chintubotwa/MhmdMukarram:md-beta
 
-RUN git clone https://github.com/sanuwaofficial/CHINTUBOT-MD /root/aquabot
-WORKDIR /root/aquabot/
+RUN git clone https://github.com/MhmdMukarram/Chintu-Bot /root/chintubot
+WORKDIR /root/chintubo/
 ENV TZ=Europe/Istanbul
 RUN yarn add supervisor -g
 RUN yarn install --no-audit
